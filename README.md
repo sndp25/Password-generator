@@ -25,4 +25,4 @@ This repository contains a simple yet powerful Python script for generating rand
 length: 12
 Include Letters (Y/N): Y
 Include Numbers (Y/N): Y
-Include Symbols (Y/N): N'''
+Include Symbols (Y/N): N
